@@ -1,0 +1,6 @@
+{
+  "name": "Core Infinity Ecosystem",
+  "description": "The official Core Infinity & Infinity Protocol Web3 ecosystem on Polygon Mainnet. Features live smart contract staking, swap portal, real-time blockchain telemetry, yield tracking, learning hub, and AI protocol insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
